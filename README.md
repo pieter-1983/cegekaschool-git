@@ -2,6 +2,7 @@
 We're working on our `fugufusion` branch, which holds a recipe to use in a Fusion kitchen.
 
 You're job is to get your current changes in the `master` branch.
+And you want to first pull whatever important changes are in the `master` branch, like - I dunno - a recipe that actually **doesn't** kill anyone?
 
 But look out, some guy that started the `ratings` branch, accidentally started his work from our `fugufusion` branch.
 
